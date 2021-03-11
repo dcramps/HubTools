@@ -1,0 +1,23 @@
+{
+	"FileVersion" : 3,
+	
+	"FriendlyName" : "Hub Tools",
+	"Version" : 1,
+	"VersionName" : "1.0",
+	"CreatedBy" : "dc",
+	"CreatedByURL" : "https://dc.wtf",
+	"EngineVersion" : "4.15.0",
+	"Description" : "Hub Tools",
+	"Category" : "UnrealTournament.HubTools",
+  "EnabledByDefault": true,
+  "CanContainContent":  false,
+	
+	"Modules" :
+	[
+		{
+			"Name" : "HubTools",
+			"Type" : "Runtime",
+			"WhitelistPlatforms" : [ "Win32", "Win64", "Linux" ]
+		}
+	]
+}

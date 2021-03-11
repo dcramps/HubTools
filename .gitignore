@@ -1,0 +1,7 @@
+Intermediate/
+Source/
+Binaries/Linux/
+UE4Editor*
+*.pdb
+*.modules
+*.zip
